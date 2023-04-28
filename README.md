@@ -1,4 +1,4 @@
-# A quick response to a responsive market
+# 
 
 This project is made more as a free time play. It retrieves Elon Musks' tweets that mention words related to cryptocurrencies. Then processes a sentiment analysis with _vader_ to define wether its a positive or negative tweet.
 If positive, executes an order.
